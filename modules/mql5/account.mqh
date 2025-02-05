@@ -1,11 +1,11 @@
 //+------------------------------------------------------------------+
-//|                                                      account.mqh |
-//|                               Copyright 2025, Jonathan Fernandez |
+//|                                                       market.mqh |
+//|                                                     MIT LICENSED |
 //|                                  https://www.github.com/joni0108 |
 //+------------------------------------------------------------------+
 //version 1.00
 
-#property copyright "Copyright 2025, Jonathan Fernandez"
+#property copyright "Created by Jonathan Fernandez"
 #property link      "https://www.github.com/joni0108"
 
 // Imports
