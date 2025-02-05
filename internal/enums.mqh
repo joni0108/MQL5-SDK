@@ -128,3 +128,13 @@ enum ENUM_TRADE_GET
 #define POOL_BOTH 2
 
 #define SYMBOL "SYMBOL"
+
+// LOG TYPES
+enum LOG_TYPE
+  {
+   LOG = 0,
+   DEBUG = 1,
+   INFO = 2,
+   WARNING = 3,
+   ERROR = 4
+  };

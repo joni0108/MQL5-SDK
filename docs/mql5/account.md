@@ -1,7 +1,7 @@
 # Account Module
 This is a module of the MQL package. It will allow you to import all account-related data and operations.
 
-## Installation
+## Import
 If you didn't imported all the SDK or the MQL module, you can import this module using:
 ```cpp
 #include <MQL5-SDK/modules/mql5/account.mqh>
@@ -48,7 +48,7 @@ enum ENUM_ACCOUNT
 ```
 
 ## Errors returned
-```cpp
+```
 SDK_ERROR_ENUM_OUT_OF_RANGE - If the ENUM_ACCOUNT value is out of range
 ```
 
