@@ -1,9 +1,9 @@
 # MQL-SDK
-![](https://img.shields.io/github/license/trollpro0108-code/MQL5-SDK)
-![](https://img.shields.io/github/v/release/trollpro0108-code/MQL5-SDK?include_prereleases&label=last%20release)
-![](https://img.shields.io/github/repo-size/trollpro0108-code/MQL5-SDK)
+![](https://img.shields.io/github/license/joni0108/MQL5-SDK)
+![](https://img.shields.io/github/v/release/joni0108/MQL5-SDK?include_prereleases&label=last%20release)
+![](https://img.shields.io/github/repo-size/joni0108/MQL5-SDK)
 ![](https://img.shields.io/badge/Languages-MQL5-blue)
-![](https://img.shields.io/github/issues-raw/trollpro0108-code/MQL5-SDK)
+![](https://img.shields.io/github/issues-raw/joni0108/MQL5-SDK)
 
 **What is MQL5-SDK?**
 This is an open-source framework created with the goal of easy development for EAs in the trading platform most used worldwide (Metatrader 5).
